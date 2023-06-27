@@ -9,6 +9,7 @@ namespace phanso
     {
         public int tuSo;
         public int mauSo;
+        //2222
         //Thang Phong Dan 22222
         public void nhapPhanSo()
         {
