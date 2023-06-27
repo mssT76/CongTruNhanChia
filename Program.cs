@@ -9,7 +9,7 @@ namespace phanso
     {
         public int tuSo;
         public int mauSo;
-        //Thang Phong Dan
+        //Thang Phong Dan 22222
         public void nhapPhanSo()
         {
             Console.Write("Tu so = ");
