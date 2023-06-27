@@ -1,0 +1,17 @@
+C:\Users\Phong\source\repos\CongTruNhanChia\bin\Debug\net7.0\CongTruNhanChia.exe
+C:\Users\Phong\source\repos\CongTruNhanChia\bin\Debug\net7.0\CongTruNhanChia.deps.json
+C:\Users\Phong\source\repos\CongTruNhanChia\bin\Debug\net7.0\CongTruNhanChia.runtimeconfig.json
+C:\Users\Phong\source\repos\CongTruNhanChia\bin\Debug\net7.0\CongTruNhanChia.dll
+C:\Users\Phong\source\repos\CongTruNhanChia\bin\Debug\net7.0\CongTruNhanChia.pdb
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.csproj.AssemblyReference.cache
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.AssemblyInfoInputs.cache
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.AssemblyInfo.cs
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.csproj.CoreCompileInputs.cache
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.dll
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\refint\CongTruNhanChia.dll
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.pdb
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.genruntimeconfig.cache
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\ref\CongTruNhanChia.dll
+C:\Users\Phong\source\repos\CongTruNhanChia\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Phong\source\repos\CongTruNhanChia\obj\Debug\net7.0\CongTruNhanChia.csproj.CopyComplete
